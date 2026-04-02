@@ -1,0 +1,15 @@
+//Everyone put their favorite colors in the input command 
+//Will print everyones favorite color
+
+#include <stdio.h>
+
+int main() {
+
+    printf("Favorite Colors List:\n\n");
+
+    //Delete the name and favorite color and add your own once branched out
+
+    printf("Name: Alice, Favorite Color: Blue\n");
+
+    return 0;
+}
